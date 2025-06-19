@@ -317,5 +317,5 @@ Planned in future
 
 ---
 
-This documentation is maintained by the Student Progress Management System development team. For support, contact the maintainers.
+This documentation is maintained by Md Ashif 
 
