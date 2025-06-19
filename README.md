@@ -12,6 +12,9 @@ A comprehensive web application for tracking and analyzing student progress in c
 ## Walkthrough DEMO-VIDEO LINK 
 https://drive.google.com/file/d/1HMfmQUQESoTkwklBQrCrSewdkRQKy1LL/view?usp=sharing
 
+## Documentation of this product
+https://github.com/Asif12as/TLE_student_tracking_codeforces/blob/master/Documentation%20of%20product.md
+
 ## Features
 
 - **Dashboard**: Overview of key metrics including active students, average ratings, and recent activity
